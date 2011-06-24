@@ -1,0 +1,11 @@
+{
+  "name": "Context Menu for Google Translate™",
+  "version": "1.1",
+  "description": "Adds a right-click menu item that makes it easy to translate selected text in Google Translate™.",
+  "permissions": ["contextMenus"],
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+  "background_page": "background.html"
+}

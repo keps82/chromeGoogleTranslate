@@ -1,0 +1,15 @@
+Context Menu for Google Translate™
+Chrome Extension
+Adds a right-click menu item that makes it easy to translate selected text in Google Translate™.
+
+Copyright 2011 Brandon Thomson
+License: BSD
+
+This extension is available on the Chrome web store at:
+https://chrome.google.com/webstore/detail/kigmfpmcomhecmajcfiianbhjgcenado
+
+I'll accept pull requests for bugfixes and reasonable features.
+
+If you fork this extension and publish your own copy in the Chrome web store,
+please use a different 128x128 icon or at least alter it in a major way. This
+helps prevent user confusion in the search results.
