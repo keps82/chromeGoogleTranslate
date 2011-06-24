@@ -30,7 +30,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-var URL_PREFIX = 'http://translate.google.com/?ie=UTF-8&sl=auto&text=';
+var URL_PREFIX = 'http://translate.google.com/?ie=UTF-8&sl=auto&tl=en&text=';
 
 var translate = function(string) {
   var url = URL_PREFIX + string.replace(/ /g, "+");
